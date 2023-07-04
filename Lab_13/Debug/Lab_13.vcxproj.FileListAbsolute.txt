@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\Lab_13\Debug\Lab_13.exe
+C:\Users\HP\source\repos\Lab_13\Debug\Lab_13.pdb

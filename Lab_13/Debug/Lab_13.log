@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\Lab_13\Source.cpp(63,10): error C2065: i: необъявленный идентификатор
+C:\Users\HP\source\repos\Lab_13\Source.cpp(63,15): error C2065: i: необъявленный идентификатор
+C:\Users\HP\source\repos\Lab_13\Source.cpp(63,18): error C2059: синтаксическая ошибка: )
+C:\Users\HP\source\repos\Lab_13\Source.cpp(153,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"

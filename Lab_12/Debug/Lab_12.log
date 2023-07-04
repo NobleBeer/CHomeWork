@@ -1,0 +1,4 @@
+﻿  ArraySwap.cpp
+C:\Users\HP\source\repos\Lab_12\ArraySwap.cpp(70,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\HP\source\repos\Lab_12\ArraySwap.cpp(85,11): warning C4101: out: неиспользованная локальная переменная
+  Lab_12.vcxproj -> C:\Users\HP\source\repos\Lab_12\Debug\Lab_12.exe
