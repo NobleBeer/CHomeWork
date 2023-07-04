@@ -1,0 +1,7 @@
+﻿  Lab_8.cpp
+C:\Users\HP\source\repos\Lab_8\Lab_8\Lab_8.cpp(58,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab_8.vcxproj -> C:\Users\HP\source\repos\Lab_8\Release\Lab_8.exe
