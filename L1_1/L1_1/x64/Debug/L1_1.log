@@ -1,0 +1,6 @@
+﻿  L1_1.cpp
+C:\Users\HP\source\repos\L1_1\L1_1\L1_1.cpp(13,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP\source\repos\L1_1\L1_1\L1_1.cpp(14,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP\source\repos\L1_1\L1_1\L1_1.cpp(22,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\HP\source\repos\L1_1\L1_1\L1_1.cpp(45,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  L1_1.vcxproj -> C:\Users\HP\source\repos\L1_1\x64\Debug\L1_1.exe
